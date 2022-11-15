@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/sourceCode/sourceAndroid/QuanLyCongAn/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/QuanLyCongAn/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/QuanLyCongAn/app/src/main/res/layout/activity_music.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/QuanLyCongAn/app/src/main/res/layout/activity_police.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/QuanLyCongAn/app/src/main/res/layout/police_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/QuanLyCongAn/app/src/main/res/layout/police_rv_item_layout.xml" value="0.46402877697841727" />
+        <entry key="..\:/sourceCode/sourceAndroid/QuanLyCongAn/app/src/main/res/layout/static_rv_item.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/button_bg.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/dynamic_rv_bg.xml" value="0.168" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/edit_text_bg.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/ratingstars.xml" value="0.143" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/search_bg.xml" value="0.168" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/static_rv_bg.xml" value="0.168" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/static_rv_selected_bg.xml" value="0.168" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/styles.xml" value="0.143" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/drawable/vie_bg.xml" value="0.1" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/activity_login.xml" value="0.264" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/activity_music.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/drawer_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/dynamic_rv_item_layout.xml" value="0.4" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/dynamic_rv_progress_bar.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/item_option.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/music_fragment.xml" value="0.25416666666666665" />
+        <entry key="..\:/sourceCode/sourceAndroid/SingerApp/app/src/main/res/layout/static_rv_item.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
